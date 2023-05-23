@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[39,)"
+license = "LGPLv3"
+
+[[mods]]
+modId = "itemscroller"
+version = "${version}"
+displayName = "Item Scroller"
+authors="masa"
+description = '''
+Move items in inventory GUIs by scrolling the mouse wheel or dragging over slots
+'''
